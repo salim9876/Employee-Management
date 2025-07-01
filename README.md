@@ -34,9 +34,7 @@ src/
 │       ├── templates/          // Thymeleaf HTML files
 │       └── application.properties
 
-
-git clone https://github.com/your-name/employee-management-system.git
-cd employee-management-system
+ employee-management-system
 
 🗃️ Step 2: Configure MySQL
 Open MySQL Workbench and run:
